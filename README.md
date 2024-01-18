@@ -37,7 +37,7 @@ The collected data was parsed using Python scripts to extract relevant informati
 
 ## Data Analysis
 
-The parsed data was analyzed to calculate statistics, such as win rates and rating changes. Additionally, the data was used to identify popular openings and their game outcomes in my games.
+The parsed data was analyzed to calculate statistics, such as win rates and rating changes. Additionally, the data was used to identify popular openings and their game outcomes.
 
 ## Data Visualization
 
