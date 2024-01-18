@@ -46,7 +46,7 @@ The project includes various data visualization techniques, such as pie charts a
 ## Results
 
 - The results of the analysis and visualization are available in the project's Jupyter Notebook or report.
-- Some key findings include my most successful openings as black and white, months with the highest win rate, my ELO rating over time, etc.
+- Some key findings include my most successful openings as black and white, which day of the week I have the highest win rate, my ELO rating over time, etc.
 
 ## Future Enhancements
 
