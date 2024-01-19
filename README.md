@@ -25,7 +25,7 @@ The main goals of this project include:
 2. Parsing the PGN (Portable Game Notation) data to extract game details and moves.
 3. Analyzing my performance, including win rates and rating changes.
 4. Visualizing the data to present insights through plots and charts.
-5. Drawing conclusions about preferred openings and game outcomes.
+5. Drawing conclusions about performance statistics, preferred openings and game outcomes.
 
 ## Data Collection
 
@@ -46,7 +46,7 @@ The project includes various data visualization techniques, such as pie charts a
 ## Results
 
 - The results of the analysis and visualization are available in the project's Jupyter Notebook or report.
-- Some key findings include my most successful openings as black and white, which day of the week I have the highest win rate, my ELO rating over time, etc.
+- Some key findings include my most successful and unsuccessful openings as black and white, which day of the week I have the highest win rate, my ELO rating over time, etc.
 
 ## Future Enhancements
 
